@@ -1,6 +1,6 @@
 Player Control
 
-Jump - floaty or snappy?
+Jump - SA2?; NO HOMING ATTACK
 Slide - increases rate of change of speed on slopes; downward greatly increases speed while upward greatly reduces it - togglable rather than held; arial version brings player down
 Attack - different attacks based on speed of character; grounded attack launches higher with more speed; arial attack launches farther with more speed
 Parry - timing is key; refills some health; reflects projectiles; gives temporary immunity to sedentary damage (damage by not moving)
@@ -12,3 +12,13 @@ Grounded attacks knock enemies up
 Arial attacks keep enemies in combos
 
 Combos - not necessarily a combo system; just chaining basic attacks to keep enemy in the air for easier damage; forces the player to move around
+	+ add force to enemy?
+	+ keeping enemy in air adds to score multiplier
+
+Ranking System?
+
+Normal and Endless mode
+	+ Endless is random
+	+ Normal has set enemy waves and bosses allowing for a consistent ranking system
+
+Lives? maybe

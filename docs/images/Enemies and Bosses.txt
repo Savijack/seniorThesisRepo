@@ -1,5 +1,7 @@
 Enemies and Bosses
 
+General note: Make enemies pretty large to make it easier for the player to hit
+
 Enemy Types:
 - group of small enemies that needs to be defeating quickly one after the other or they respawn - quick movement - linked in some way
 
@@ -15,7 +17,7 @@ Enemy Types:
 
 - projectiles like fire that block the player and force them towards the center
 
-Boss Types
+Boss Types:
 - First boss, main obstacle should be to movement
 	+ does not move very much, basically a fortress in the center of the arena
 	+ Unbreakable walls circling the shielded points
@@ -38,3 +40,4 @@ Depending on development time make upgraded versions of these three bosses with 
 	+ blocking the player
 	+ evading the player
 	+ forced parrying
+	+ Keepy uppy like enemy comboing to finish the boss off and gain points
