@@ -1,0 +1,11 @@
+Arena
+
+All Spherical or like a colosseum - hollowed out half-sphere
+
+hole in the wall esc obstacles the player must jump through to keep speed and move through area
+
+after a boss, player loads into a different, less easy to navigate arena with more obstacles
+
+obstacles should focus on the edges of the arena to encourage the player to stay in the center
+
+ramps and gaps to jump over

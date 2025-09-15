@@ -1,0 +1,40 @@
+Enemies and Bosses
+
+Enemy Types:
+- group of small enemies that needs to be defeating quickly one after the other or they respawn - quick movement - linked in some way
+
+- shielded enemies (shields break with a certain amount of damage * speed) - mostly stationary - color indicates what speed level required; will match player color; one hit to break shield and one hit to kill; must be done in quick succession
+	+ shield could be a separate game object connected to an enemy or boss; when it is destroyed, weak point is instantiated and if the shield is instantiated, weak point is destroyed
+	+ make it to where multiple shields are needed to be destroyed for a weak point to instantiate
+
+- basic cannon fodder - chase player; combo fodder
+
+- enemies that block movement; example: wall of fire that damages the player running over or a genuine barrier - stationary
+
+- projectile shooting foes necessary to bring player into the fray; turrets or something
+
+- projectiles like fire that block the player and force them towards the center
+
+Boss Types
+- First boss, main obstacle should be to movement
+	+ does not move very much, basically a fortress in the center of the arena
+	+ Unbreakable walls circling the shielded points
+	+ 3 shielded points that player needs to build up speed to destroy
+	+ mainly attempts to block player from gaining speed or using that gained speed
+	+ phases increase layers of obstacles blocking shielded weak points
+	+ hitting weak points creates indestructible walls around other points and removes all walls; pushes player out somehow to reform walls; expanding cylindrical collider
+
+- Second boss, Clone of player - Nabbit type
+	+ phases increase speed or add projectiles
+
+- Third boss, Parry tester
+	+ can the player parry
+	+ only way to open weak point is by parrying
+	+ incorporates projectile parrying in final phase; dead man's volley
+
+Depending on development time make upgraded versions of these three bosses with more health, attacks, etc.
+
+- Final boss should incorporate the first three bosses challenges to the player
+	+ blocking the player
+	+ evading the player
+	+ forced parrying

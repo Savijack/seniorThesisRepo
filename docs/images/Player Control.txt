@@ -1,0 +1,14 @@
+Player Control
+
+Jump - floaty or snappy?
+Slide - increases rate of change of speed on slopes; downward greatly increases speed while upward greatly reduces it - togglable rather than held; arial version brings player down
+Attack - different attacks based on speed of character; grounded attack launches higher with more speed; arial attack launches farther with more speed
+Parry - timing is key; refills some health; reflects projectiles; gives temporary immunity to sedentary damage (damage by not moving)
+Dodge - shifts velocity left or right (REMOVE THIS)
+Drop Dash - arial method to give a burst of speed
+Spindash - maybe make it like Celeria concept where it is more used to change the direction of already gained speed
+
+Grounded attacks knock enemies up
+Arial attacks keep enemies in combos
+
+Combos - not necessarily a combo system; just chaining basic attacks to keep enemy in the air for easier damage; forces the player to move around
