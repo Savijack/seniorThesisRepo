@@ -18,22 +18,22 @@
 
 ---
 
-## Week 2 Summary (MM/DD/YYYY)
+## Week 2 Summary (09/22/2025)
 ### This week I worked on:
 
-[Your answer here]
+[I created a unity project and started creating basic shapes with probuilder that can be used for the arenas. During the next week, I plan to start on the basic controls and physics of the game. This will likely be more time consuming.]
 
 ### This week I learned:
 
-[Your answer here]
+[Taking Game Development II at the same time as this course will prove difficult. I am learning the techniques I need to create this game to the best of my ability during this process. Luckily I have most of the basics down.]
 
 ### My successes this week were:
 
-[Your answer here]
+[I successfully used Probuilder after learning it within the last week. More simplistic rectangular shapes do not cause many difficulties. Probuilder will be a huge help with map design.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[More spherical or rounded 3D objects can be difficult to use with Probuilder. More often than not, attempting to create these will create imperfect shapes. I was also unaware pf how to use materials in Probuilder until about an hour ago.]
 
 ---
 
