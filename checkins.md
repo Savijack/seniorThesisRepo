@@ -1,4 +1,4 @@
-## Week 1 Summary (9/14/2025)
+## Week 1 Summary (9/15/2025)
 
 ### This week I worked on:
 
