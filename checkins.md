@@ -37,22 +37,22 @@
 
 ---
 
-## Week 3 Summary (MM/DD/YYYY)
+## Week 3 Summary (09/29/2025)
 ### This week I worked on:
 
-[Your answer here]
+[I began working on the basic character movement in a three dimensional space. As each arena will be spherical, I must learn to create a movement system that is effected by curves. I was also able to create a functional spherical arena.]
 
 ### This week I learned:
 
-[Your answer here]
+[Movement in a three-dimensional space is much more difficult than a two-dimensional space. It is not just as simple as changig the Vector2 to a Vector3. More research must be done on my end.]
 
 ### My successes this week were:
 
-[Your answer here]
+[My character can move left and right. My spherical arena has the correct collision and is large enough to allow the player a large test space. I will use this to experiment with physics.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[I am mainly dealing with the difficulty of three-dimensional movement. My main other struggle comes from the texturing of the spherical arena. Lining up textures on a sphere has proven to be a pain.]
 
 ---
 
