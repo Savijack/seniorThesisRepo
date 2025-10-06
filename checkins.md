@@ -56,22 +56,22 @@
 
 ---
 
-## Week 4 Summary (MM/DD/YYYY)
+## Week 4 Summary (10/06/2025)
 ### This week I worked on:
 
-[Your answer here]
+[Basic three-dimensional movement, not including jumping is functional. Physics have not yet been added and jumping is not yet working.]
 
 ### This week I learned:
 
-[Your answer here]
+[Unity physics, especially when dealing with three dimensions will be a pain to code. Accounting for slopes and the character running up walls and ceilings will be a potential roadblock.]
 
 ### My successes this week were:
 
-[Your answer here]
+[MY character can move around some of the sperical arena I have created. Ramps have also been added to the arena to allow for more unique interaction with the world.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[Jumping is not yet working. I have only coded jumping in two-dimensional games, so there will be a slight difference there. However, the main problems will come from the rest of the physics implementation.]
 
 ---
 
