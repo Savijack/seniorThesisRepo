@@ -75,22 +75,22 @@
 
 ---
 
-## Week 5 Summary (MM/DD/YYYY)
+## Week 5 Summary (10/13/2025)
 ### This week I worked on:
 
-[Your answer here]
+[I began implementing physics into player movement. Basic movement and jumping now include more momentum based physics. Gravity is more directly controlled by me.]
 
 ### This week I learned:
 
-[Your answer here]
+[The player material should be frictionless to ensure slope physics work as intended. I have not used a physics material for the player before. I should experiment with them not just on the player, but on other objects.]
 
 ### My successes this week were:
 
-[Your answer here]
+[Basic movement on slopes works almost as intended. The minor bugs seem easy to fix. The slopes I already created in my arena seem to work well with the physics.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[Ramps in the arena do not have consistent collision. More complex shapes will likely have this issue. Maybe models in the Unity Asset Store will not have that problem.]
 
 ---
 
